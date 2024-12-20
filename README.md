@@ -51,5 +51,4 @@
 
 -----------------------------------
 **More Detail →**
-[2조_3FD_BookLink_완료보고서.pptx](https://github.com/user-attachments/files/18206134/2._3FD_BookLink_.pptx)
-
+[2조_3FD_BookLink_완료보고서.pptx](https://github.com/user-attachments/files/18206143/2._3FD_BookLink_.pptx)
