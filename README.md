@@ -24,7 +24,7 @@
 -----------------------------------
 **- 서비스 구성도**
 
-![image](https://github.com/user-attachments/assets/cbf303df-7a1e-490f-845c-89ac8fbff319)
+![image](https://github.com/user-attachments/assets/bb5ef25b-9f46-44f7-bae5-90b746fb3dfa)
 
 -----------------------------------
 **- 시퀀스 다이어그램**
@@ -51,4 +51,5 @@
 
 -----------------------------------
 **More Detail →**
-[2조_3FD_BookLink_완료보고서.pptx](https://github.com/user-attachments/files/18193186/2._3FD_BookLink_.pptx)
+[2조_3FD_BookLink_완료보고서.pptx](https://github.com/user-attachments/files/18206134/2._3FD_BookLink_.pptx)
+
