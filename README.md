@@ -48,7 +48,3 @@
 -----------------------------------
 **- Database Index**
 ![image](https://github.com/user-attachments/assets/035c339b-6cff-49b4-a6f7-92fbef8323e3)
-
------------------------------------
-**More Detail →**
-[2조_3FD_BookLink_완료보고서.pptx](https://github.com/user-attachments/files/18206143/2._3FD_BookLink_.pptx)
